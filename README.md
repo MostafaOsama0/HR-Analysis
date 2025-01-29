@@ -1,4 +1,3 @@
-# HR-Analysis
 # 📊 HR Analysis Project  
 Welcome to the **HR Analysis Project** using **Power Query** and **Power BI**!  
 This project leverages **Power Query for data transformation** and **Power BI for visualization** to provide a comprehensive view of employee management and payroll analysis.  
