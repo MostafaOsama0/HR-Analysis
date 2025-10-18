@@ -59,7 +59,7 @@ The goal of this project is to analyze HR data effectively using **Power Query f
 ## 📞 Contact  
 For any questions or feedback, feel free to connect:
 - **GitHub**: [MostafaOsama0](https://github.com/MostafaOsama0)
-- **Linkedin**:[Mostafa Osama](https://www.linkedin.com/in/mustafaosama0)
+- **Linkedin**:[Mostafa Osama](https://www.linkedin.com/in/mostafaosama0)
 - **Email**: mostafaosama7213@gmail.com
 - **Phone**: +20 01271239591
 
